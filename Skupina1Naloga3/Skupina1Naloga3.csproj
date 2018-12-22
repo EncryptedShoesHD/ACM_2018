@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{82611A05-184A-48CE-8083-6DF56C7BE2AB}</ProjectGuid>
+    <ProjectGuid>{FC797A04-4E44-4A2F-B3D3-0108322F5C0B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Skupina1Naloga2</RootNamespace>
-    <AssemblyName>Skupina1Naloga2</AssemblyName>
+    <RootNamespace>Skupina1Naloga3</RootNamespace>
+    <AssemblyName>Skupina1Naloga3</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Skupina1Naloga2.cs" />
+    <Compile Include="Skupina1Naloga3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

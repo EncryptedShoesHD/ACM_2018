@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Skupina1Naloga2
 {
-    class Program
+    class Skupina1Naloga2
     {
         static void Main(string[] args)
         {
