@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Documents\GitHub\ACM_2018\Skupina1Naloga1\bin\Debug\Skupina1Naloga1.exe.config
+C:\Users\user\OneDrive\Documents\GitHub\ACM_2018\Skupina1Naloga1\bin\Debug\Skupina1Naloga1.exe
+C:\Users\user\OneDrive\Documents\GitHub\ACM_2018\Skupina1Naloga1\bin\Debug\Skupina1Naloga1.pdb
+C:\Users\user\OneDrive\Documents\GitHub\ACM_2018\Skupina1Naloga1\obj\Debug\Skupina1Naloga1.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Documents\GitHub\ACM_2018\Skupina1Naloga1\obj\Debug\Skupina1Naloga1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\GitHub\ACM_2018\Skupina1Naloga1\obj\Debug\Skupina1Naloga1.exe
+C:\Users\user\OneDrive\Documents\GitHub\ACM_2018\Skupina1Naloga1\obj\Debug\Skupina1Naloga1.pdb
