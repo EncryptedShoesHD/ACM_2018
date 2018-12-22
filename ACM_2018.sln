@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skupina1Naloga2", "Skupina1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skupina1Naloga3", "Skupina1Naloga3\Skupina1Naloga3.csproj", "{FC797A04-4E44-4A2F-B3D3-0108322F5C0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skupina1Naloga4", "Skupina1Naloga4\Skupina1Naloga4.csproj", "{8F678029-44F0-4BA1-8B6B-045FE9C7486A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FC797A04-4E44-4A2F-B3D3-0108322F5C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC797A04-4E44-4A2F-B3D3-0108322F5C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC797A04-4E44-4A2F-B3D3-0108322F5C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F678029-44F0-4BA1-8B6B-045FE9C7486A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F678029-44F0-4BA1-8B6B-045FE9C7486A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F678029-44F0-4BA1-8B6B-045FE9C7486A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F678029-44F0-4BA1-8B6B-045FE9C7486A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
