@@ -1,0 +1,6 @@
+C:\Users\user\OneDrive\Documents\GitHub\ACM_2018\Skupina1Naloga2\bin\Debug\Skupina1Naloga2.exe.config
+C:\Users\user\OneDrive\Documents\GitHub\ACM_2018\Skupina1Naloga2\bin\Debug\Skupina1Naloga2.exe
+C:\Users\user\OneDrive\Documents\GitHub\ACM_2018\Skupina1Naloga2\bin\Debug\Skupina1Naloga2.pdb
+C:\Users\user\OneDrive\Documents\GitHub\ACM_2018\Skupina1Naloga2\obj\Debug\Skupina1Naloga2.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\GitHub\ACM_2018\Skupina1Naloga2\obj\Debug\Skupina1Naloga2.exe
+C:\Users\user\OneDrive\Documents\GitHub\ACM_2018\Skupina1Naloga2\obj\Debug\Skupina1Naloga2.pdb

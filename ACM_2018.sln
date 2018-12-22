@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skupina1Naloga1", "Skupina1Naloga1\Skupina1Naloga1.csproj", "{E469F89E-EB4A-48D1-A040-5A5BCB3847DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skupina1Naloga2", "Skupina1Naloga2\Skupina1Naloga2.csproj", "{82611A05-184A-48CE-8083-6DF56C7BE2AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E469F89E-EB4A-48D1-A040-5A5BCB3847DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E469F89E-EB4A-48D1-A040-5A5BCB3847DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E469F89E-EB4A-48D1-A040-5A5BCB3847DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82611A05-184A-48CE-8083-6DF56C7BE2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82611A05-184A-48CE-8083-6DF56C7BE2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82611A05-184A-48CE-8083-6DF56C7BE2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82611A05-184A-48CE-8083-6DF56C7BE2AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
